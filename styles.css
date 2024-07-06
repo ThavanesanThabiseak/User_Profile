@@ -1,0 +1,44 @@
+/* Add your CSS styling here */
+body {
+    background-color: #000; /* Set entire background screen to black */
+    color: #fff; /* Set default text color to white for better contrast */
+}
+
+.profile-card {
+    border: 1px solid #333; /* Darker border to match the dark theme */
+    border-radius: 8px;
+    padding: 16px;
+    margin: 8px;
+    display: inline-block;
+    text-align: center;
+    background-color: #333; /* Black background for profile cards */
+    color: #fff; /* White text color for better contrast */
+}
+.profile-card img {
+    border-radius: 50%;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    background-color: #333; /* Black background for table */
+    color: #fff; /* White text color for better contrast */
+}
+th, td {
+    padding: 8px;
+    border: 1px solid #555; /* Darker border to match the dark theme */
+    text-align: left;
+}
+button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: #555; /* Darker background for the button */
+    color: #fff; /* White text color for the button */
+    border: none;
+    border-radius: 4px;
+}
+
+
+
